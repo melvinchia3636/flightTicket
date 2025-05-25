@@ -30,7 +30,7 @@ function App() {
                 <div className="flex gap-12">
                   <div>
                     <span className="uppercase text-sm font-semibold">name of passenger</span>
-                    <p className="uppercase text-lg">chia pin wen / Melvin</p>
+                    <p className="uppercase text-lg">chia doe john / Melvin</p>
                   </div>
                   <div>
                     <span className="uppercase text-sm font-semibold">date</span>
@@ -99,7 +99,7 @@ function App() {
               <div className="flex gap-12">
                 <div>
                   <span className="uppercase text-sm font-semibold">name of passenger</span>
-                  <p className="uppercase text-lg">chia pin wen / Melvin</p>
+                  <p className="uppercase text-lg">chia doe john / Melvin</p>
                 </div>
               </div>
               <div className="flex gap-12">
