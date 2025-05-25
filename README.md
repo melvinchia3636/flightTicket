@@ -1,4 +1,4 @@
-<center><h1 align="center">✈️ Flight Ticket Generator</h1><p align="center">Just a clean, aesthetic mock boarding pass.</p></center>
+<center><h1 align="center">✈️ Flight Ticket Generator</h1><p align="center">Just a boarding pass. Nothing fancy.</p></center>
 
 ## 📌 Overview
 
